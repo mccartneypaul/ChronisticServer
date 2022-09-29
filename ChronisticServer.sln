@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.808.0
+VisualStudioVersion = 25.0.1703.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronisticServer", "ChronisticServer.csproj", "{12865CE7-7459-4965-9FDA-7A961FC10003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronisticServer", "ChronisticServer\ChronisticServer.csproj", "{EDA71FF7-9CEE-4547-AAFA-C62C73568FDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12865CE7-7459-4965-9FDA-7A961FC10003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12865CE7-7459-4965-9FDA-7A961FC10003}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12865CE7-7459-4965-9FDA-7A961FC10003}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12865CE7-7459-4965-9FDA-7A961FC10003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA71FF7-9CEE-4547-AAFA-C62C73568FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA71FF7-9CEE-4547-AAFA-C62C73568FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA71FF7-9CEE-4547-AAFA-C62C73568FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA71FF7-9CEE-4547-AAFA-C62C73568FDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {807D675E-C0C6-492C-A718-10BCABB225C0}
+		SolutionGuid = {FAF7F179-1D4D-4119-ACE8-3938DFD201BD}
 	EndGlobalSection
 EndGlobal
